@@ -88650,8 +88650,8 @@ $S:14}
 A.y8.prototype={
 a_(){return new A.Ru(B.i)}}
 A.Ru.prototype={
-G(a){var s=this,r=null,q="imranchodpar13@gmail.com",p="Mobile No.",o="9667027786",n=A.a2(a),m=A.kz(12),l=t.w,k=A.as(a,r,l).w.a.a>800?new A.B(A.as(a,r,l).w.a.a*0.8,0):new A.B(A.as(a,r,l).w.a.a*0.9,0),j=A.cS("Contact me",r,r,r,A.a2(a).p3.z,r,r),i=t.p,h=A.dr(A.b([A.iz(B.bs,B.by,s.pX("Email",q),B.ij,B.cD,B.dt),B.hn,A.iz(B.bs,B.by,s.pX(p,o),B.ij,B.cD,B.dt),B.hn,A.iz(B.bs,B.by,s.pX("HomeTown","JHUNJHUNU"),B.ij,B.cD,B.dt)],i),B.K,B.bg,B.H)
-return A.azG(0,m,A.dr(A.b([B.du,j,B.eF,new A.Of(A.dr(A.b([h,B.ho,A.as(a,r,l).w.a.a>360?B.F6:B.F7],i),B.K,B.to,B.H),A.k1(A.b([A.dr(A.b([A.iz(B.bs,B.by,s.pX("Email",q),B.dc,B.cD,B.dt),B.hn,A.iz(B.bs,B.by,s.pX(p,o),B.dc,B.cD,B.dt),B.hn,A.iz(B.bs,B.by,s.pX("Hometown","Jhunnjhunu, Rajasthan"),B.dc,B.cD,B.dt)],i),B.K,B.bg,B.H),B.F8],i),B.K,B.tp,B.H),r),B.Oy],i),B.K,B.aH,B.H),n.ay.cx,!0,0.1,10,28,k)},
+G(a){var s=this,r=null,q="imranchodpar13@gmail.com",p="Mobile No.",o="9667027786",n="Jhunjhunu, Rajasthan",m=A.a2(a),l=A.kz(12),k=t.w,j=A.as(a,r,k).w.a.a>800?new A.B(A.as(a,r,k).w.a.a*0.8,0):new A.B(A.as(a,r,k).w.a.a*0.9,0),i=A.cS("Contact me",r,r,r,A.a2(a).p3.z,r,r),h=t.p,g=A.dr(A.b([A.iz(B.bs,B.by,s.pX("Email",q),B.ij,B.cD,B.dt),B.hn,A.iz(B.bs,B.by,s.pX(p,o),B.ij,B.cD,B.dt),B.hn,A.iz(B.bs,B.by,s.pX("HomeTown",n),B.ij,B.cD,B.dt)],h),B.K,B.bg,B.H)
+return A.azG(0,l,A.dr(A.b([B.du,i,B.eF,new A.Of(A.dr(A.b([g,B.ho,A.as(a,r,k).w.a.a>360?B.F6:B.F7],h),B.K,B.to,B.H),A.k1(A.b([A.dr(A.b([A.iz(B.bs,B.by,s.pX("Email",q),B.dc,B.cD,B.dt),B.hn,A.iz(B.bs,B.by,s.pX(p,o),B.dc,B.cD,B.dt),B.hn,A.iz(B.bs,B.by,s.pX("Hometown",n),B.dc,B.cD,B.dt)],h),B.K,B.bg,B.H),B.F8],h),B.K,B.tp,B.H),r),B.Oy],h),B.K,B.aH,B.H),m.ay.cx,!0,0.1,10,28,j)},
 pX(a,b){var s=null,r=A.IT(B.k,1),q=A.kz(15)
 return A.d1(s,A.dr(A.b([A.cS(a,s,s,s,A.wU().$1$fontSize(20),s,s),A.aeC(b,A.wU().$2$fontSize$fontWeight(15,B.O),s)],t.p),B.cY,B.bg,B.H),B.r,s,s,new A.cz(s,s,r,q,s,s,B.ad),s,s,s,B.ED,s,s,s)}}
 A.Li.prototype={
